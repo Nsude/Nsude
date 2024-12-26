@@ -55,7 +55,7 @@ Welcome to my GitHub! I'm a front-end engineer who designs, writes, reads, and i
 ### 📫 **Let's Connect**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MeshachNsude-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/meshachnsude/)
 [![X](https://img.shields.io/badge/X-@meshach__nsude-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/meshach_nsude)
-[![Email](https://img.shields.io/badge/Email-meshach.nsude@example.com-red?style=for-the-badge)](mailto:nsudeme777@gmail.com)
+[![Email](https://img.shields.io/badge/Email-nsudeme777@gmail.com-red?style=for-the-badge)](mailto:nsudeme777@gmail.com)
 
 ---
 
