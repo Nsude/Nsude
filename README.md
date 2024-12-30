@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Meshach Nsude!
+# 👋 Hi, I'm Meshach
 
 **`Frontend Engineer | Designer `**
 
