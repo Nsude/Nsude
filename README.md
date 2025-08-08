@@ -35,7 +35,7 @@ Welcome to my GitHub! I'm a front-end engineer who designs, writes, reads, and i
 ---
 
 ### 🌟 **Featured Projects**
-- [**Harlow Web App**](https://github.com/Nsude/Harlow) – An e-commerce web application I'm building with React, TypeScript, and Firebase.
+- **Coming Soon
 
 ---
 
