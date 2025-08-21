@@ -12,19 +12,9 @@ so we can help those who otherwise would be helpless.
 ---
 
 ### 🔭 **Not-so-fun fun-facts about me**
-- 💻 I speak fluent **English**, **JavaScript**, **TypeScript**, **React**, **Angular**, and React Native.
+- 💻 I speak fluent **English**, **JavaScript**, **TypeScript**, **React**, **NextJS**, and **Angular**.
 - 🎨 I created a design layout every day for a year, and now I am able to design user-centric yet stunning layouts.
 - 🌍 Currently open to Frontend Engineering opportunities in **Europe**.
-
----
-
-### 🚀 **My Stack**
-- TypeScript
-- JavaScript
-- NextJs
-- React
-- Angular
-- React Native
 
 ---
 
