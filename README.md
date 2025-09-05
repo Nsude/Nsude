@@ -19,7 +19,7 @@ so we can help those who otherwise would be helpless.
 ---
 
 ### 🌟 **Things I've built**
-- [Thoughts Web App](https://github.com/Nsude/thoughts-app)
+- [Thoughts Web App](https://github.com/Nsude/thoughts-app) (WIP)
 
 ---
 
