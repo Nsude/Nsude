@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Meshach
 
-**`Design Engineer | Designer `**
+**`Product Engineer | Designer `**
 
 Welcome to my GitHub! I'm an engineer who designs, reads, and writes.
 
@@ -12,8 +12,8 @@ so we can help those who otherwise would be helpless.
 ---
 
 ### 🔭 **Not-so-fun fun-facts about me**
-- 💻 I speak fluent **English**, **JavaScript**, **TypeScript**, **React**, **NextJS**, and **Angular**.
-- 🎨 I created a design layout every day for a year, and now I am able to design user-centric yet stunning layouts.
+- 💻 I speak fluent **Design** **English**, **JavaScript**, **TypeScript**, **React**, **NextJS**, and **Angular**.
+- 🎨 I created a design layout every day for a year to learn to design.
 - 🌍 Currently open to Frontend Engineering opportunities in **Europe**.
 
 ---
