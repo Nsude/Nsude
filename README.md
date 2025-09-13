@@ -11,26 +11,26 @@ so we can help those who otherwise would be helpless.
 
 ---
 
-### 🔭 **Not-so-fun fun-facts about me**
+### **Not-so-fun fun-facts about me**
 - 💻 I speak fluent **Design** **English**, **JavaScript**, **TypeScript**, **React**, **NextJS**, and **Angular**.
 - 🎨 I created a design layout every day for a year to learn to design.
 - 🌍 Currently open to Frontend Engineering opportunities in **Europe**.
 
 ---
 
-### 🌟 **Things I've built**
+### **Things I've built**
 - [Thoughts Web App](https://github.com/Nsude/thoughts-app) (WIP)
 
 ---
 
-### 🛠️ **Tools I Use**
+###  **Tools I Use**
 - **Code Editors**: VS Code
 - **Design Tools**: Figma, Photoshop, Illustrator
 - **Version Control**: Git, GitHub
 
 ---
 
-### 📫 **Places you can find me**
+### **Places you can find me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MeshachNsude-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/meshachnsude/)
 [![Email](https://img.shields.io/badge/Email-meshachnsd@gmail.com-red?style=for-the-badge)](mailto:meshachnsd@gmail.com)
 
