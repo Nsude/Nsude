@@ -12,7 +12,7 @@ so we can help those who otherwise would be helpless.
 ---
 
 ### **Not-so-fun fun-facts about me**
-- 💻 I speak fluent **Design** **English**, **JavaScript**, **TypeScript**, **React**, **NextJS**, and **Angular**.
+- 💻 I speak fluent **Design**, **English**, **JavaScript**, **TypeScript**, **React**, **NextJS**, and **Angular**.
 - 🎨 I created a design layout every day for a year to learn to design.
 - 🌍 Currently open to Frontend Engineering opportunities in **Europe**.
 
