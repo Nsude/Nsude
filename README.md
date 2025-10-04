@@ -20,6 +20,7 @@ so we can help those who otherwise would be helpless.
 
 ### **Things I've built**
 - [Thoughts](https://github.com/Nsude/thoughts-app): Think out loud and let AI help develop, and refine your thoughts. Thoughts is equipped with voice-input and multi-user collaboration features.
+- [Crumbs](https://github.com/Nsude/crumbs-chrome-extension): A chrome extension that detects the current LinkedIn profile, pulls in the key details, and allows users save them to a list with one click. 
 
 ---
 
