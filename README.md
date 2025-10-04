@@ -19,7 +19,7 @@ so we can help those who otherwise would be helpless.
 ---
 
 ### **Things I've built**
-- [Thoughts Web App](https://github.com/Nsude/thoughts-app) (WIP)
+- [Thoughts](https://github.com/Nsude/thoughts-app): Think out loud and let AI help develop, and refine your thoughts. Thoughts is equipped with voice-input and multi-user collaboration features.
 
 ---
 
