@@ -2,19 +2,19 @@
 
 **`Product Engineer | Designer `**
 
-Welcome to my GitHub! I'm an engineer who designs, reads, and writes.
+I'm an engineer who designs, reads, and writes.
 
 I am passionate about becoming the most I can. 
 
-I believe we all owe a debt to humanity to become more
+I believe we all owe a debt to humanity to max out our potentials
 so we can help those who otherwise would be helpless.
 
 ---
 
-### **Not-so-fun fun-facts about me**
+### **About me**
 - 💻 I speak fluent **Design**, **English**, **JavaScript**, **TypeScript**, **React**, **NextJS**, and **Angular**.
 - 🎨 I created a design layout every day for a year to learn to design.
-- 🌍 Currently open to Frontend Engineering opportunities in **Europe**.
+- 🌍 Currently open to Frontend Engineering opportunities in **Germany**, **UK** & **US**.
 
 ---
 
@@ -37,5 +37,5 @@ so we can help those who otherwise would be helpless.
 
 ---
 
-**“Code is like humor. When you have to explain it, it’s bad.” – Cory House**  
-Thanks for stopping by :)
+**“Consitency breeds success, success builds confidence”**
+Thanks for stopping by (:
