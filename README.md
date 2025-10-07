@@ -27,7 +27,6 @@ so we can help those who otherwise would be helpless.
 ###  **Tools I Use**
 - **Code Editors**: VS Code
 - **Design Tools**: Figma, Photoshop, Illustrator
-- **Version Control**: Git, GitHub
 
 ---
 
