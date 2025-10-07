@@ -14,7 +14,7 @@ so we can help those who otherwise would be helpless.
 ### **About me**
 - 💻 I speak fluent **Design**, **English**, **JavaScript**, **TypeScript**, **React**, **NextJS**, and **Angular**.
 - 🎨 I created a design layout every day for a year to learn to design.
-- 🌍 Currently open to Frontend Engineering opportunities in **Germany**, **UK** & **US**.
+- 🌍 Currently open to Frontend Engineering opportunities in **Europe** & **US**.
 
 ---
 
