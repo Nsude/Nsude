@@ -37,5 +37,4 @@ so we can help those who otherwise would be helpless.
 
 #
 
-**“Consitency breeds success, success builds confidence”**
 Thanks for stopping by (:
