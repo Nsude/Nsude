@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Meshach
 
-**`Frontend Product Engineer | Designer `**
+**`Design Engineer `**
 
 I'm an engineer who designs, reads, and writes.
 
@@ -9,7 +9,7 @@ so we can help those who otherwise would be helpless.
 
 #
 
-### **Things I've built**
+### **Here are some things I've built**
 - [buymeatoken](https:www.buymeatoken.com): The millions of creators in Asia and Africa can't monetize their communities. Buy Me a Coffee doesn't work there. Neither does Ko-fi. So I built something that does.
 - [zag](https://github.com/Nsude/zag): A tool to help me find and send personalised emails to founder who are hiring for roles I'm interested in.
 - [Tailwind Class Orgnizer](https://github.com/Nsude/tailwind-class-organizer): A vscode extension that organizes taiwind classes for improved readability of the classes and entire JSX/TSX/HTML code.
@@ -18,10 +18,8 @@ so we can help those who otherwise would be helpless.
 
 #
 
-### **Fun Facts**
-- 💻 I speak fluent **English**, **JavaScript**, **TypeScript**, **Design**, **React**, **NextJS**, and **Angular**.
+### **Some cool things I've done**
 - 🎨 I created a design layout every day for a year to learn to design.
-- 🌍 Currently open to Frontend Product Engineering opportunities in **Europe** & **US**.
 
 #
 
