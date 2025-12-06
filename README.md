@@ -11,7 +11,7 @@ so we can help those who otherwise would be helpless.
 
 ### **Here are some things I've built**
 - [buymeatoken](https:www.buymeatoken.com): The millions of creators in Asia and Africa can't monetize their communities. Buy Me a Coffee doesn't work there. Neither does Ko-fi. So I built something that does. 👷🏾
-- [zag](https://github.com/Nsude/zag): A tool to help me find and send personalised emails to founder who are hiring for roles I'm interested in. 👷🏾
+- [zag](https://github.com/Nsude/zag): A tool to help me find and send personalised emails to founders who are hiring for roles I'm interested in. 👷🏾
 - [Tailwind Class Orgnizer](https://github.com/Nsude/tailwind-class-organizer): A vscode extension that organizes taiwind classes for improved readability of the classes and entire JSX/TSX/HTML code.
 - [Thoughts](https://github.com/Nsude/thoughts-app): Think out loud and let AI help develop, and refine your thoughts. Thoughts is equipped with voice-input and multi-user collaboration features.
 - [Crumbs](https://github.com/Nsude/crumbs-chrome-extension): A chrome extension that detects the current LinkedIn profile, pulls in the key details, and allows users save them to a list with one click. 
