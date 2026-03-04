@@ -4,9 +4,6 @@
 
 I'm an engineer who designs, reads, and writes.
 
-I believe we all owe a debt to humanity to max out our potentials
-so we can help those who otherwise would be helpless.
-
 #
 
 ### **Here are some things I've built**
