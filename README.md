@@ -15,11 +15,6 @@ I'm an engineer who designs, reads, and writes.
 
 #
 
-### **Some cool things I've done**
-- 🎨 I created a design layout every day for a year to learn to design.
-
-#
-
 ### **Places you can find me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MeshachNsude-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/meshachnsude/)
 [![Email](https://img.shields.io/badge/Email-meshachnsd@gmail.com-red?style=for-the-badge)](mailto:meshachnsd@gmail.com)
