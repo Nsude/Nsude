@@ -2,7 +2,7 @@
 
 **`Design Engineer `**
 
-I'm an engineer who designs, reads, and writes.
+I'm an engineer who designs, reads, and writes every now and again.
 
 #
 
